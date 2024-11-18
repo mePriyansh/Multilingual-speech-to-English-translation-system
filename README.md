@@ -39,3 +39,8 @@ This project showcases how pre-trained language models can be fine-tuned for hig
 ```bash
 git clone https://github.com/mePriyansh/Multilingual-speech-to-English-translation-system.git
 cd Multilingual-speech-to-English-translation-system
+
+### 2. Install Dependencies
+Install the required Python dependencies:
+```bash
+pip install -r requirements.txt
